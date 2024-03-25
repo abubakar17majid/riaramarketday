@@ -1,0 +1,17 @@
+
+.image{
+    width: 200px;
+}
+.image2{
+    width: 200px;
+}
+.image3{
+    width: 200px;
+}
+.image4{ width: 160px; float: right;}
+
+body {
+    background-color: rgb(165, 31, 170);
+  }
+  h2 {
+    color:white;}
